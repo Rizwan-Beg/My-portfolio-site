@@ -1,6 +1,6 @@
 export const Home = () => {
     return (
-        <div>
+        <div className="animate-fade-in">
             {/* theme Toggle*/}
             {/* theme Toggle*/}
             {/* theme Toggle*/}
